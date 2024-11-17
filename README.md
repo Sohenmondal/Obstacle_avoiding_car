@@ -13,9 +13,12 @@ This project involves a robotic car system designed to prevent accidents by dete
 
 **Real-Time Processing:** Instantaneous decision-making to ensure safety.
 
-##Setup
+## Setup
 
 -**Prerequisites:** Hardware (robotic car, sensors) and software (control algorithms).
+
 -**Connect Sensors:** Install and connect obstacle detection sensors.
+
 -**Program Car:** Upload the control software to the robotic car's system.
+
 -**Test:** Run the system to ensure proper obstacle detection and stopping functionality
